@@ -17,7 +17,6 @@ FoodCatalog - мобильное Android-приложение, разработ�
 
 - Язык программирования: Kotlin
 - Среда разработки: Android Studio Quail 4 (2026.1.4)
-- Интерфейс: XML (View)
 - minSdk: API 26
 - targetSdk: API 37
 - compileSdk: API 37
