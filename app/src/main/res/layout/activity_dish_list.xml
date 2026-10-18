@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="@dimen/screen_padding"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/tvCategoryTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/title_margin_top"
+        android:layout_marginBottom="@dimen/large_margin"
+        android:text="@string/dishes_title"
+        android:textSize="@dimen/title_text_size"
+        android:textStyle="bold"
+        android:textColor="@color/title_color" />
+
+    <Button
+        android:id="@+id/btnDish1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/button_margin"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+    <Button
+        android:id="@+id/btnDish2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/button_margin"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+    <Button
+        android:id="@+id/btnDish3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/large_margin"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back"
+        android:textAllCaps="false" />
+
+</LinearLayout>

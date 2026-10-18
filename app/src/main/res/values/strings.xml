@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FoodCatalog</string>
+
+    <string name="main_title">Каталог блюд</string>
+    <string name="select_category">Выберите категорию</string>
+
+    <string name="category_breakfast">Завтраки</string>
+    <string name="category_main_dishes">Основные блюда</string>
+    <string name="category_desserts">Десерты</string>
+    <string name="category_drinks">Напитки</string>
+
+
+    <string name="dishes_title">Блюда</string>
+    <string name="back">Назад</string>
+
+    <string name="breakfast_1">Сырники</string>
+    <string name="breakfast_2">Американский завтрак</string>
+    <string name="breakfast_3">Овсяная каша</string>
+
+    <string name="main_dish_1">Паста Карбонара</string>
+    <string name="main_dish_2">Куринная грудка с запченными овощами</string>
+    <string name="main_dish_3">Лазанья</string>
+
+    <string name="dessert_1">Чизкейк</string>
+    <string name="dessert_2">Тирамису</string>
+    <string name="dessert_3">Брауни</string>
+
+    <string name="drink_1">Капучино</string>
+    <string name="drink_2">Лимонад</string>
+    <string name="drink_3">Какао</string>
+
+    <string name="dish_name">Название блюда</string>
+    <string name="about_dish">О блюде</string>
+    <string name="default_dish_info">Информация о блюде</string>
+
+    <string name="info_syrniki">Нежные творожные сырники. Основные ингредиенты: творог, яйцо, мука и сахар.</string>
+    <string name="info_omelet">Глазунья из 3-х яиц, картофель, черии, микс салата, шампиньоны, фасоль в томате. На выбор: сосика/индейка/пастрами.</string>
+    <string name="info_oatmeal">Овсяная каша с молоком. Можно дополнить фруктами, ягодами или мёдом.</string>
+
+    <string name="info_carbonara">Паста в сливочном соусе с сыром и беконом.</string>
+    <string name="info_chicken_rice">Куриная грудка, брокколи, томаты, горох.</string>
+    <string name="info_lasagna">Итальянское блюдо из слоёв пасты, мясной начинки, соуса и сыра.</string>
+
+    <string name="info_cheesecake">Нежный десерт на основе сливочного сыра с песочной основой.</string>
+    <string name="info_tiramisu">Итальянский десерт с кофейным вкусом, кремом и печеньем савоярди.</string>
+    <string name="info_brownie">Шоколадный десерт с насыщенным вкусом и мягкой текстурой.</string>
+
+    <string name="info_cappuccino">Кофейный напиток из эспрессо, горячего молока и молочной пены. На выбор сиропы:фисташки, соленая карамель, попкорн, шоколад</string>
+    <string name="info_lemonade">Освежающий напиток на основе лимона, воды и сахара.</string>
+    <string name="info_cocoa">Тёплый напиток из какао и молока с мягким шоколадным вкусом.</string>
+</resources>

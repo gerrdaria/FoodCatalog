@@ -1,0 +1,118 @@
+2026-10-18 14:11:21.461  4601-4601  MainActivity            com.example.foodcatalog              I  Выбрана категория: Завтраки
+2026-10-18 14:11:21.661  4601-4601  MainActivity            com.example.foodcatalog              D  onPause
+2026-10-18 14:11:21.820  4601-4601  DishListActivity        com.example.foodcatalog              D  onCreate: экран списка блюд создан
+2026-10-18 14:11:21.821  4601-4601  DishListActivity        com.example.foodcatalog              D  onStart
+2026-10-18 14:11:21.826  4601-4601  DishListActivity        com.example.foodcatalog              D  onResume
+2026-10-18 14:11:21.880  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@583171f
+2026-10-18 14:11:21.888  4601-4601  VRI[DishListActivity]   com.example.foodcatalog              D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+2026-10-18 14:11:21.900  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@583171f
+2026-10-18 14:11:21.971  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-51 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:21.972  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[DishListActivity]#51(BLAST Consumer)51 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:22.306  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:22.306  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:f1eec24c: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:22.667  4601-4601  VRI[MainActivity]       com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:22.699  4601-4601  MainActivity            com.example.foodcatalog              D  onStop
+2026-10-18 14:11:25.495  4601-4601  DishListActivity        com.example.foodcatalog              I  Выбрано блюдо: Американский завтрак
+2026-10-18 14:11:25.539  4601-4601  DishListActivity        com.example.foodcatalog              D  onPause
+2026-10-18 14:11:25.587  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onCreate: экран блюда создан
+2026-10-18 14:11:25.591  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onStart
+2026-10-18 14:11:25.593  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onResume
+2026-10-18 14:11:25.631  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@9a243eb
+2026-10-18 14:11:25.632  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@9a243eb
+2026-10-18 14:11:25.633  4601-4601  VRI[DishDetailActivity] com.example.foodcatalog              D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+2026-10-18 14:11:25.648  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-52 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:25.651  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[DishDetailActivity]#52(BLAST Consumer)52 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:25.972  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:25.973  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:02c3dedd: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:26.337  4601-4601  VRI[DishListActivity]   com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:26.379  4601-4601  DishListActivity        com.example.foodcatalog              D  onStop
+2026-10-18 14:11:27.799  4601-4601  DishDetailActivity      com.example.foodcatalog              I  Нажата кнопка Назад
+2026-10-18 14:11:27.819  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onPause
+2026-10-18 14:11:27.865  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:27.866  4601-4601  DishListActivity        com.example.foodcatalog              D  onStart
+2026-10-18 14:11:27.867  4601-4601  DishListActivity        com.example.foodcatalog              D  onResume
+2026-10-18 14:11:27.881  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-53 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:27.883  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[DishListActivity]#53(BLAST Consumer)53 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:28.054  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:28.055  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:b7811376: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:28.514  4601-4601  VRI[DishDetailActivity] com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:28.536  4601-4628  HWUI                    com.example.foodcatalog              D  endAllActiveAnimators on 0x7d83be24ebf0 (RippleDrawable) with handle 0x7d848e26f8b0
+2026-10-18 14:11:28.544  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onStop
+2026-10-18 14:11:28.545  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-18 14:11:28.545  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onDestroy
+2026-10-18 14:11:28.546  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:29.706  4601-4601  DishListActivity        com.example.foodcatalog              D  onPause
+2026-10-18 14:11:29.720  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:29.721  4601-4601  MainActivity            com.example.foodcatalog              D  onStart
+2026-10-18 14:11:29.722  4601-4601  MainActivity            com.example.foodcatalog              D  onResume
+2026-10-18 14:11:29.730  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-54 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:29.733  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[MainActivity]#54(BLAST Consumer)54 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:30.187  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:30.187  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:0a1ee794: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:30.652  4601-4601  VRI[DishListActivity]   com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:30.674  4601-4601  DishListActivity        com.example.foodcatalog              D  onStop
+2026-10-18 14:11:30.676  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-18 14:11:30.676  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: null
+2026-10-18 14:11:30.676  4601-4601  DishListActivity        com.example.foodcatalog              D  onDestroy
+2026-10-18 14:11:30.677  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:33.616  4601-4601  MainActivity            com.example.foodcatalog              I  Выбрана категория: Напитки
+2026-10-18 14:11:33.653  4601-4601  MainActivity            com.example.foodcatalog              D  onPause
+2026-10-18 14:11:33.685  4601-4601  DishListActivity        com.example.foodcatalog              D  onCreate: экран списка блюд создан
+2026-10-18 14:11:33.688  4601-4601  DishListActivity        com.example.foodcatalog              D  onStart
+2026-10-18 14:11:33.690  4601-4601  DishListActivity        com.example.foodcatalog              D  onResume
+2026-10-18 14:11:33.706  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@d575d0e
+2026-10-18 14:11:33.706  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@d575d0e
+2026-10-18 14:11:33.707  4601-4601  VRI[DishListActivity]   com.example.foodcatalog              D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+2026-10-18 14:11:33.724  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-55 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:33.726  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[DishListActivity]#55(BLAST Consumer)55 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:33.986  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:33.987  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:97a689e7: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:34.366  4601-4601  VRI[MainActivity]       com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:34.390  4601-4628  HWUI                    com.example.foodcatalog              D  endAllActiveAnimators on 0x7d83be237020 (RippleDrawable) with handle 0x7d848e2a18c0
+2026-10-18 14:11:34.397  4601-4601  MainActivity            com.example.foodcatalog              D  onStop
+2026-10-18 14:11:35.851  4601-4601  DishListActivity        com.example.foodcatalog              I  Выбрано блюдо: Капучино
+2026-10-18 14:11:35.897  4601-4601  DishListActivity        com.example.foodcatalog              D  onPause
+2026-10-18 14:11:35.928  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onCreate: экран блюда создан
+2026-10-18 14:11:35.932  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onStart
+2026-10-18 14:11:35.934  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onResume
+2026-10-18 14:11:35.946  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c1f668a
+2026-10-18 14:11:35.947  4601-4601  VRI[DishDetailActivity] com.example.foodcatalog              D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+2026-10-18 14:11:35.953  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@c1f668a
+2026-10-18 14:11:35.961  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-56 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:35.963  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[DishDetailActivity]#56(BLAST Consumer)56 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:36.234  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:36.234  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:9a0c1b3e: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:36.621  4601-4601  VRI[DishListActivity]   com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:36.638  4601-4628  HWUI                    com.example.foodcatalog              D  endAllActiveAnimators on 0x7d83be2dc5f0 (RippleDrawable) with handle 0x7d848e2a29d0
+2026-10-18 14:11:36.650  4601-4601  DishListActivity        com.example.foodcatalog              D  onStop
+2026-10-18 14:11:37.686  4601-4601  DishDetailActivity      com.example.foodcatalog              I  Нажата кнопка Назад
+2026-10-18 14:11:37.707  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onPause
+2026-10-18 14:11:37.749  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:37.750  4601-4601  DishListActivity        com.example.foodcatalog              D  onStart
+2026-10-18 14:11:37.751  4601-4601  DishListActivity        com.example.foodcatalog              D  onResume
+2026-10-18 14:11:37.764  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-57 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:37.766  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[DishListActivity]#57(BLAST Consumer)57 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:37.953  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:37.953  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:76dca6fd: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:38.429  4601-4601  VRI[DishDetailActivity] com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:38.452  4601-4628  HWUI                    com.example.foodcatalog              D  endAllActiveAnimators on 0x7d83be2e0cc0 (RippleDrawable) with handle 0x7d848e2a43b0
+2026-10-18 14:11:38.455  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onStop
+2026-10-18 14:11:38.457  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-18 14:11:38.457  4601-4601  DishDetailActivity      com.example.foodcatalog              D  onDestroy
+2026-10-18 14:11:38.457  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: null
+2026-10-18 14:11:38.460  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:39.628  4601-4601  DishListActivity        com.example.foodcatalog              D  onPause
+2026-10-18 14:11:39.641  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode
+2026-10-18 14:11:39.641  4601-4601  MainActivity            com.example.foodcatalog              D  onStart
+2026-10-18 14:11:39.643  4601-4601  MainActivity            com.example.foodcatalog              D  onResume
+2026-10-18 14:11:39.655  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer unnamed-4601-58 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:39.656  4601-4601  Surface                 com.example.foodcatalog              I  Creating surface for consumer VRI[MainActivity]#58(BLAST Consumer)58 with slotExpansion=1 for 64 slots
+2026-10-18 14:11:39.872  4601-4601  InsetsController        com.example.foodcatalog              D  hide(ime())
+2026-10-18 14:11:39.872  4601-4601  ImeTracker              com.example.foodcatalog              I  com.example.foodcatalog:fd3ea940: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 14:11:40.333  4601-4601  VRI[DishListActivity]   com.example.foodcatalog              D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 14:11:40.348  4601-4628  HWUI                    com.example.foodcatalog              D  endAllActiveAnimators on 0x7d83be2dac30 (RippleDrawable) with handle 0x7d848e2a98d0
+2026-10-18 14:11:40.355  4601-4601  DishListActivity        com.example.foodcatalog              D  onStop
+2026-10-18 14:11:40.356  4601-4601  WindowOnBackDispatcher  com.example.foodcatalog              D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-18 14:11:40.357  4601-4657  WindowOnBackDispatcher  com.example.foodcatalog              D  setOnBackInvokedCallbackInfo: null
+2026-10-18 14:11:40.360  4601-4601  DishListActivity        com.example.foodcatalog              D  onDestroy
+2026-10-18 14:11:40.365  4601-4601  ViewRootImpl            com.example.foodcatalog              D  Skipping stats log for color mode

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="@dimen/screen_padding"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/title_margin_top"
+        android:text="@string/main_title"
+        android:textSize="@dimen/title_text_size"
+        android:textStyle="bold"
+        android:textColor="@color/title_color" />
+
+    <TextView
+        android:id="@+id/tvSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/large_margin"
+        android:text="@string/select_category"
+        android:textSize="@dimen/subtitle_text_size"
+        android:textColor="@color/subtitle_color" />
+
+    <Button
+        android:id="@+id/btnBreakfast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/button_margin"
+        android:text="@string/category_breakfast"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+    <Button
+        android:id="@+id/btnMainDishes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/button_margin"
+        android:text="@string/category_main_dishes"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+    <Button
+        android:id="@+id/btnDesserts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/button_margin"
+        android:text="@string/category_desserts"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+    <Button
+        android:id="@+id/btnDrinks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/category_drinks"
+        android:textAllCaps="false"
+        android:textSize="@dimen/button_text_size"
+        android:textColor="@color/button_text"
+        android:backgroundTint="@color/button_color" />
+
+</LinearLayout>

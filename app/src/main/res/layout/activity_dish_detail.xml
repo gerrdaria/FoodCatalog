@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/screen_padding"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/tvDishName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/title_margin_top"
+        android:text="@string/dish_name"
+        android:textColor="@color/title_color"
+        android:textSize="@dimen/title_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvAboutLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDishName"
+        android:layout_marginTop="@dimen/large_margin"
+        android:text="@string/about_dish"
+        android:textColor="@color/title_color"
+        android:textSize="@dimen/button_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvDishInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvAboutLabel"
+        android:layout_marginTop="@dimen/small_margin"
+        android:text="@string/default_dish_info"
+        android:textColor="@color/text_primary"
+        android:textSize="@dimen/subtitle_text_size" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/back"
+        android:textAllCaps="false"
+        android:textColor="@color/button_text"
+        android:textSize="@dimen/button_text_size"
+        android:backgroundTint="@color/button_color" />
+
+</RelativeLayout>
